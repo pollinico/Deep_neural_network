@@ -1,4 +1,4 @@
-# Deep_neural_network
+# Deep neural network
 Example of the universal approximation theory of DNN
 
 The universal approximation theorem states that a feed-forward deep network (with one or
@@ -8,4 +8,13 @@ functions compact subsets of R<sup>n</sup>.
 We will see an example of this property for a specific function, in this exercise we will train the
 network in order to approximate the following function: f(x<sub>1</sub>,x<sub>2</sub>)=x1exp(-x<sub>1</sub><sup>2</sup>-x<sub>2</sub><sup>2</sup>)  
 
-![Function plot](fig1.jpg)
+![Function plot](fig1.jpg)  
+
+We consider the following network architecture:
+* Two inputs
+* Four neurons in the first hidden layer
+* Three neurons in the second hidden layer
+* One linear output
+
+
+![Trained approximation](fig2.jpg)  
