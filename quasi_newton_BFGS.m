@@ -1,5 +1,7 @@
 function [W]=quasi_newton_BFGS(fun,W,x,y,xtest,ytest,par,task)
-% HOMEWROK 6, NICOLO POLLINI 926876996 nicolo@campus.technion.ac.il (May 2016)
+%  Nicolo Pollini nicolo@campus.technion.ac.il, 
+%  Technion - Israel Institute of Technology, Haifa July 2016
+
 nvars=length(W);
 
 [f,g]=fun(W,x,y,par,task);
