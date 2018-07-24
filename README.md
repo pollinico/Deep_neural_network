@@ -16,7 +16,7 @@ We consider the following network architecture:
 * Three neurons in the second hidden layer
 * One linear output
 
-![Neural netowkr architecture](fig3.jpg)
+![Neural network architecture](fig3.jpg)
 
 
 ![Trained approximation](fig2.jpg)  
