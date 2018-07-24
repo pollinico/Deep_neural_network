@@ -29,5 +29,5 @@ function of the form:
 
 
 Finally, we plot the surface of the function to be approximated, and the testing points. We
-can see how our approximation well represents our target function:
+can see how our approximation well represents our target function:  
 ![Trained approximation](fig2.jpg)  
