@@ -6,7 +6,7 @@ more hidden layers) containing a finite number of neurons can approximate any co
 functions compact subsets of R<sup>n</sup>. 
 
 We will see an example of this property for a specific function, in this exercise we will train the
-network in order to approximate the following function: f(x<sub>1</sub>,x<sub>2</sub>)=x1exp(-x<sub>1</sub><sup>2</sup>-x<sub>2</sub><sup>2</sup>)  
+network in order to approximate the following function: f(x<sub>1</sub>,x<sub>2</sub>)=x<sub>1</sub>exp(-x<sub>1</sub><sup>2</sup>-x<sub>2</sub><sup>2</sup>)  
 
 ![Function plot](fig1.jpg)  
 
