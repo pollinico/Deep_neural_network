@@ -25,7 +25,9 @@ o 200 uniformly distributed random points in the range [-2; 2] Xtest, and we eva
 associated Ytest.  
 In the training phase, the function minimized by the Quasi-Newton algorithm was an error
 function of the form:
+![Error function](fig4.JPG)
 
-![Trained approximation](fig4.JPG)
 
+Finally, we plot the surface of the function to be approximated, and the testing points. We
+can see how our approximation well represents our target function:
 ![Trained approximation](fig2.jpg)  
