@@ -16,7 +16,7 @@ We consider the following network architecture:
 * Three neurons in the second hidden layer
 * One linear output
 
-![Neural network architecture](fig3.jpg)
+![Neural network architecture](fig3.JPG)
 
 In the hidden layers, the nonlinearities is defined by tangent hyperbolic functions (activation function).
 
