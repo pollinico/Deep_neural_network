@@ -1,5 +1,7 @@
 function [alpha]=armijorule(fun,W,x,y,g,d,par,task)
-% HOMEWROK 4, NICOLO POLLINI 926876996 nicolo@campus.technion.ac.il (May 2016)
+
+%  Nicolo Pollini nicolo@campus.technion.ac.il, 
+%  Technion - Israel Institute of Technology, Haifa July 2016
 
 s=1;
 sigma_armijo=0.25;
