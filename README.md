@@ -18,6 +18,14 @@ We consider the following network architecture:
 
 ![Neural network architecture](fig3.JPG)
 
-In the hidden layers, the nonlinearities is defined by tangent hyperbolic functions (activation function).
+In the hidden layers, the nonlinearities is defined by tangent hyperbolic functions (activation function).  
+For training, we generated a set o 500 uniformly distributed random points in the range
+[-2; 2] Xtrain, and we evaluated the associated Ytrain points. For testing, we generated a set
+o 200 uniformly distributed random points in the range [-2; 2] Xtest, and we evaluated the
+associated Ytest.  
+In the training phase, the function minimized by the Quasi-Newton algorithm was an error
+function of the form:
+
+![Trained approximation](fig4.jpg)
 
 ![Trained approximation](fig2.jpg)  
