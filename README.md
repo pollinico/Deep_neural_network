@@ -18,5 +18,6 @@ We consider the following network architecture:
 
 ![Neural network architecture](fig3.jpg)
 
+In the hidden layers, the nonlinearities is defined by tangent hyperbolic functions (activation function).
 
 ![Trained approximation](fig2.jpg)  
