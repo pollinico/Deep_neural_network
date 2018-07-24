@@ -12,8 +12,8 @@ network in order to approximate the following function: f(x<sub>1</sub>,x<sub>2<
 
 We consider the following network architecture:
 * Two inputs
-* Four neurons in the first hidden layer
-* Three neurons in the second hidden layer
+* Five neurons in the first hidden layer
+* Four neurons in the second hidden layer
 * One linear output
 
 
