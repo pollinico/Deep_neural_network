@@ -26,6 +26,6 @@ associated Ytest.
 In the training phase, the function minimized by the Quasi-Newton algorithm was an error
 function of the form:
 
-![Trained approximation](fig4.jpg)
+![Trained approximation](fig4.JPG)
 
 ![Trained approximation](fig2.jpg)  
