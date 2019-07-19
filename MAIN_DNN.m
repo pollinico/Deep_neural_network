@@ -1,6 +1,11 @@
 %% Neural Network, 2 layers, 5+4 neuronx, 
 %  Nicolo Pollini nicolo@campus.technion.ac.il, 
 %  Technion - Israel Institute of Technology, Haifa July 2016
+%
+% Disclaimer:                                                             
+% The author reserves all rights but does not guarantee that the code is  
+% free from errors. Furthermore, the author shall not be liable in any    
+% event caused by the use of the program. 
  
 clear all
 close all
