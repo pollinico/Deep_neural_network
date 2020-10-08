@@ -1,6 +1,6 @@
 function [alpha]=armijorule(fun,W,x,y,g,d,par,task)
 
-%  Nicolo Pollini nicolo@campus.technion.ac.il, 
+%  Nicolo Pollini nicolo@alumni.technion.ac.il, 
 %  Technion - Israel Institute of Technology, Haifa July 2016
 % Disclaimer:                                                             %
 % The author reserves all rights but does not guarantee that the code is  %
