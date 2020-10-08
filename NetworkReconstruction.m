@@ -1,6 +1,6 @@
 function [F]=NetworkReconstruction(W,xx,par)
 
-%  Nicolo Pollini nicolo@campus.technion.ac.il, 
+%  Nicolo Pollini nicolo@alumni.technion.ac.il, 
 %  Technion - Israel Institute of Technology, Haifa July 2016
 
 Ntest=par.Ntest;
