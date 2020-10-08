@@ -1,5 +1,5 @@
 function [W]=quasi_newton_BFGS(fun,W,x,y,xtest,ytest,par,task)
-%  Nicolo Pollini nicolo@campus.technion.ac.il, 
+%  Nicolo Pollini nicolo@alumni.technion.ac.il, 
 %  Technion - Israel Institute of Technology, Haifa July 2016
 %
 % Disclaimer:                                                             
