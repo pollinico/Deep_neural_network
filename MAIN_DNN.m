@@ -1,4 +1,4 @@
-%% Neural Network, 2 layers, 5+4 neuronx, 
+%% Neural Network, 2 layers, 5+4 neurons, 
 %  Nicolo Pollini nicolo@alumni.technion.ac.il, 
 %  Technion - Israel Institute of Technology, Haifa July 2016
 %
